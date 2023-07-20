@@ -7,9 +7,7 @@
 
 Once you have all tools. 
 
-1. Install the express-generator package
-
-`npm install express-generator -g`
+1. Install the express-generator package `npm install express-generator -g`
 
 2. Create new directory 'week_01`
 3. run `cd week_01 `
